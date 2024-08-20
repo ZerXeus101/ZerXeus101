@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**ZerXeus101/ZerXeus101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apparently **ZerXeus101/ZerXeus101** is a "✨ _special_ ✨" repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started: -->
+<!-- Yeah no, I know future me will also see this file and cringe cause I have no idea what to put -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a website that contains a guide for freshmen in my university
+- 🌱 I’m currently learning Java
+- 👯 I’m looking to collaborate on a small project that involves databases 
+- 🤔 I’m looking for help with the outdated documentation for the calendar component in nuxt ui (very specific yes)
+- 💬 Ask me about something I know
+- 📫 How to reach me: zerxeus101@gmail.com
+- ⚡ Fun fact: this is not very fun
+
